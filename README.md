@@ -1,5 +1,5 @@
 # azure resume 
-my own azure resome instruction below 
+My own Azure resume, instruction below.
 
 # cgc-azure-resume-starter
 
